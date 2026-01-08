@@ -562,7 +562,7 @@ export default function App() {
         <div className="flex items-center gap-3">
           <Plane className="w-8 h-8 text-sky-400" />
           <div>
-            <h1 className="text-2xl font-bold text-sky-400 tracking-tight">KOREAN AIR TechOps</h1>
+            <h1 className="text-2xl font-bold text-sky-400 tracking-tight">HNKUK AIR TechOps</h1>
             <p className="text-xs text-slate-400">항공기 엔진 예지 정비 시스템 (Unit-008)</p>
           </div>
         </div>
