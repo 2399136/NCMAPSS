@@ -101,7 +101,7 @@ N-CMAPSS 데이터셋의 컴포넌트별 고장 상관관계와 시계열 패턴
 
 **Time Series Patterns**
 엔진 사이클이 진행됨에 따라 변화하는 센서 데이터의 시계열 패턴입니다.
-![Time Series](./assets/time_series_patterns.jpg)
+![Time Series](./assets/time_series_patterns.png)
 
 **Fault Magnitude Distribution**
 각 컴포넌트의 고장 크기 분포를 시각화한 데이터입니다.
