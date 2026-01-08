@@ -105,6 +105,6 @@ N-CMAPSS 데이터셋의 컴포넌트별 고장 상관관계와 시계열 패턴
 
 **Fault Magnitude Distribution**
 각 컴포넌트의 고장 크기 분포를 시각화한 데이터입니다.
-![Distribution](./assets/fault_magnitude_distribution.jpg)
+![Distribution](./assets/fault_magnitude_distribution.png)
 
 </details>
